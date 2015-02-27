@@ -1,0 +1,6 @@
+[submodule "deps/bootstrap"]
+	path = deps/bootstrap
+	url = https://github.com/twbs/bootstrap
+[submodule "deps/jquery"]
+	path = deps/jquery
+	url = https://github.com/jquery/jquery

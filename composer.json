@@ -1,0 +1,22 @@
+{
+    "name": "marc/phry",
+    "require": {
+        "cboden/ratchet": "@stable",
+        "psy/psysh": "@stable",
+        "twig/twig": "1.6.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "authors": [
+        {
+            "name": "Marc Garcia",
+            "email": "markcial@gmail.com"
+        }
+    ],
+    "autoload" : {
+      "psr-0": {
+        "Phry\\": "src/"
+      }
+    }
+}
